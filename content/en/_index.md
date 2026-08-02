@@ -1,6 +1,6 @@
 ---
-title: Goldydocs
-description: Porridge temperature assessment &mdash; in the cloud!
+title: Memphis Urbanism
+description: Resources on walking, biking, and public transit in Memphis!
 params:
   body_class: td-navbar-links-all-active
 ---
