@@ -235,3 +235,7 @@ module:
 services:
   googleAnalytics:
     id: G-K1DL0X6Q62
+
+caches:
+  images:
+    dir: :cacheDir/images
