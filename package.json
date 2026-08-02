@@ -78,5 +78,8 @@
     "proseWrap": "always",
     "singleQuote": true
   },
-  "cSpell:ignore": ""
+  "cSpell:ignore": "",
+  "allowScripts": {
+    "hugo-extended@0.164.0": true
+  }
 }
