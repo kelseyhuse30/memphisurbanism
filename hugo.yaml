@@ -93,7 +93,7 @@ params:
     taxonomyPageHeader: [tags, categories]
 
   # TODO: UPDATE
-  privacy_policy: null
+  # privacy_policy: null
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
