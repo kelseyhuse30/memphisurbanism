@@ -1,12 +1,12 @@
 {
-  "name": "docsy-example-site",
-  "version": "0.16.1-dev+001-over-main-9e5d51b7",
-  "description": "Example site that uses Docsy theme for technical documentation.",
-  "repository": "github:google/docsy-example",
-  "homepage": "https://example.docsy.dev",
-  "author": "Docsy Authors",
+  "name": "Memphis Urbanism Site",
+  "version": "1.0.0",
+  "description": "Clone of Docsy Site",
+  "repository": "github:kelseyhuse30/memphisurbanism",
+  "homepage": "https://memphisurbanism.com",
+  "author": "Kelsey Huse",
   "license": "Apache-2.0",
-  "bugs": "https://github.com/google/docsy-example/issues",
+  "bugs": "https://github.com/kelseyhuse30/memphisurbanism/issues",
   "spelling": "cSpell:ignore docsy hugo precheck rtlcss -",
   "workspaces": [
     "packages/hugoautogen"
